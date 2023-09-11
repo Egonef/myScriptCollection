@@ -7,7 +7,7 @@ Some may not be even anything complex, but just commands shorteners and small Qo
 Follow the steps below to install and use these scripts.
 
 
-## Installation
+# Installation
 
 
  Clone this repository to the location of your choice
@@ -28,3 +28,9 @@ chmod +x installscript.sh
 ```bash
 ./installscript.sh
 ```
+
+# Script list:
+
+## myCbonsai
+
+My go-to parameters for cbonsai. It looks nice on rices.
