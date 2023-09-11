@@ -36,6 +36,9 @@ List of scripts and a brief explanation of their functionality.
 ## myCbonsai
 
 My go-to parameters for cbonsai. It looks nice on rices.
+Needless to say that you need to have cbonsai installed on your system: https://gitlab.com/jallbrit/cbonsai#installation
+
+
 
 
 ![Imgur](https://i.imgur.com/loGfYQq.png)
