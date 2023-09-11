@@ -31,6 +31,8 @@ chmod +x installscript.sh
 
 # Script list:
 
+List of scripts and a brief explanation of their functionality.
+
 ## myCbonsai
 
 My go-to parameters for cbonsai. It looks nice on rices.
