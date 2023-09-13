@@ -33,7 +33,7 @@ chmod +x installscript.sh
 
 List of scripts and a brief explanation of their functionality.
 
-## myCbonsai
+## mycbonsai
 
 My go-to parameters for cbonsai. It looks nice on rices.
 Needless to say that you need to have cbonsai installed on your system: https://gitlab.com/jallbrit/cbonsai#installation
@@ -42,3 +42,25 @@ Needless to say that you need to have cbonsai installed on your system: https://
 
 
 ![Imgur](https://i.imgur.com/loGfYQq.png)
+
+
+
+
+## fext
+
+A short program that extract the type of compressed files that I use: .zip, .rar and .tar; This way I dont have to remember the syntax and 
+parameters of each one, just fext and im good to go.
+
+You will need some dependencies:
+
+For debian based distros:
+```bash
+sudo apt install unrar unzip tar
+```
+The syntax of the command is simple:
+```bash
+fext <file_to_extract>
+```
+
+
+
