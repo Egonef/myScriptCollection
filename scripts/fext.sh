@@ -19,6 +19,9 @@ else
     elif [[ "$file" == *".rar"* ]] ; then
         unrar x "$file"
 
+    else
+        echo "This type of file is not supported yet"
+        exit
     fi
 
     echo "File extracted"
