@@ -57,10 +57,28 @@ For debian based distros:
 ```bash
 sudo apt install unrar unzip tar
 ```
+For arch based distros:
+```bash
+sudo pacman -S unrar unzip tar
+```
+
 The syntax of the command is simple:
 ```bash
 fext <file_to_extract>
 ```
 
 
+## lse
 
+My eza(exa) configuration. Just an improved version of ls.
+
+You need to have eza installed:
+
+For debian based distros:
+```bash
+sudo apt install eza
+```
+For arch based distros:
+```bash
+sudo pacman -S eza
+```
