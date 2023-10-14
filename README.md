@@ -26,7 +26,7 @@ chmod +x installscript.sh
  By default, the scripts will be placed in the '/bin' directory, which is usually included in the system's $PATH.
  If you want to change the installation location, you can modify the 'carpeta_destino' variable in the installation script:
 ```bash
-./installscript.sh
+./installScript.sh
 ```
 
 # Script list:
